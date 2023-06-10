@@ -1,7 +1,9 @@
+![logo](https://github.com/sanjanalytics/sanjanalytics/blob/main/linkedin%20banner.png)
+
 # Beep boop, welcome to my data sanj-uary 🤖
 
 <p align="center">
-  <img width="500" height="400" src="https://github.com/sanjanalytics/sanjanalytics/assets/135433416/0bc88648-eeb4-44a3-ac51-c76e4eb9509a">
+  <img width="500" height="400" src="https://github.com/sanjanalytics/sanjanalytics/assets/135433416/0e42d1ef-4191-43ea-a5cc-2b75633ce243">
 </p>
 
  # 💫 About Me:
